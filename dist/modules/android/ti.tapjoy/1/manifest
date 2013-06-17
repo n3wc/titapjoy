@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1
+apiversion: 2
+description: TapJoy sdk module for Appcelerator Titanium
+author: jesse newcomer
+license: Specify your license
+copyright: Copyright (c) 2013 by Your Company
+
+
+# these should not be edited
+name: titapjoy
+moduleid: ti.tapjoy
+guid: b8780f55-77e3-4584-adfa-6cf10727ede0
+platform: android
+minsdk: 3.1.0.GA
